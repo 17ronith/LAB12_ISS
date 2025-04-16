@@ -41,7 +41,7 @@
 | 7   |Missing nav menu is analytics.html                                          |               |              |
 | 8   |Missing container in items.html           |Saharsh        |Saharsh              |
 | 9   |fixed models.py, error in var type                   | Aakarsh|      Aakarsh        |
-| 10  |                                          |               |              |
+| 10  |hardcoded users in analytics.py           |        Aakarsh       |       Aakarsh       |
 | 11  |                                          |               |              |
 | 12  |                                          |               |              |
 | 13  |                                          |               |              |
