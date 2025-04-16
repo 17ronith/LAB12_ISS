@@ -38,7 +38,7 @@
 | 4   |Missing quiz link in other HTML pages' navigation         |Saharsh          |Saharsh        |
 | 5   |Missing news link in quiz.html navigation |Saharsh        |Saharsh       |
 | 6   |Missing analytics link in quiz.html navigation       |Saharsh               |Saharsh              |
-| 7   |                                          |               |              |
+| 7   |Missing nav menu is analytics.html                                          |               |              |
 | 8   |                                          |               |              |
 | 9   |                                          |               |              |
 | 10  |                                          |               |              |
