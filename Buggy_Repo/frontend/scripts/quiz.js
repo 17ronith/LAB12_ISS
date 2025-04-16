@@ -36,7 +36,7 @@ function updateAttempts() {
 }
 
 searchInput.addEventListener("input", updateAttempts);
-// how is life ?
+
 async function loadHighScore() {
   try {
     const res = await fetch(`${BASE_URL}/quiz/highscore`);
@@ -124,9 +124,6 @@ form.addEventListener("submit", async (e) => {
 resetBtn.addEventListener("click", () => {
   score = 0;
   gameOver = false;
-  attemptHistory = [];
-  updateScoreDisplay();
-  updateAttempts();
   resetBtn.classList.add("hidden");
   loadQuestion();
 });

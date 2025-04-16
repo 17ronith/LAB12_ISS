@@ -1,4 +1,4 @@
-const baseURL = "http://localhost:8001";
+const baseURL = "http://localhost:8000";
 
 async function loadAnalytics() {
   const res = await fetch(`${baseURL}/analytics`);
@@ -11,7 +11,6 @@ async function loadAnalytics() {
   document.getElementById("maxItemName").textContent = data.stats.max_item_name_length;
   document.getElementById("maxUserName").textContent = data.stats.max_user_username_length;
   
-  // Do I play too much cricket... hmmm...
   document.getElementById("plot").src = data.plot;
 }
 

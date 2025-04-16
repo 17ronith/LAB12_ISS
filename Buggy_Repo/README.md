@@ -32,17 +32,17 @@
 
 | ID  | Issue Description                        | Identified By | Fixed By     |
 |-----|------------------------------------------|---------------|--------------|
-| 1   | Style.css is not filled                  |       Narain |     Whole Team     |
-| 2   |Wrong script path in profile.html (styles/ instead of scripts/)    |Saharsh        |Saharsh        |
-| 3   |Home.js is a completely unused file       |Saharsh       |Saharsh        |
-| 4   |Missing quiz link in other HTML pages' navigation         |Saharsh          |Saharsh        |
-| 5   |Missing news link in quiz.html navigation |Saharsh        |Saharsh       |
-| 6   |Missing analytics link in quiz.html navigation       |Saharsh               |Saharsh              |
-| 7   |Missing nav menu is analytics.html                                          |               |              |
-| 8   |Missing container in items.html           |Saharsh        |Saharsh              |
-| 9   |fixed models.py, error in var type                   | Aakarsh|      Aakarsh        |
-| 10  |hardcoded users in analytics.py           |        Aakarsh       |       Aakarsh       |
-| 11  |names should be name and usernames should be username in analytics.py|  Aakarsh|   Aakarsh        |
+| 1   | Style.css is not filled                                    |         Narain |     Whole Team     |
+| 2   |                                          |               |              |
+| 3   |                                          |               |              |
+| 4   |                                          |               |              |
+| 5   |                                          |               |              |
+| 6   |                                          |               |              |
+| 7   |                                          |               |              |
+| 8   |                                          |               |              |
+| 9   |                                          |               |              |
+| 10  |                                          |               |              |
+| 11  |                                          |               |              |
 | 12  |                                          |               |              |
 | 13  |                                          |               |              |
 | 14  |                                          |               |              |

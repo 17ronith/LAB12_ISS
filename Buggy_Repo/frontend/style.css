@@ -1,2 +1,156 @@
-Aah I was too lazy to implement this
-You can do it
+/* Base styles */
+•⁠  ⁠{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+  
+  body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.6;
+    color: #333;
+    background-color: #f5f5f5;
+    padding: 20px;
+  }
+  
+  .container {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Navigation */
+  nav {
+    background-color: #333;
+    padding: 10px 20px;
+    margin-bottom: 20px;
+    border-radius: 4px;
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  nav a {
+    color: white;
+    text-decoration: none;
+    padding: 10px 15px;
+    display: inline-block;
+    transition: background-color 0.3s;
+  }
+  
+  nav a:hover {
+    background-color: #555;
+    border-radius: 4px;
+  }
+  
+  /* Typography */
+  h1 {
+    margin-bottom: 20px;
+    color: #2c3e50;
+  }
+  
+  p {
+    margin-bottom: 15px;
+  }
+  
+  /* Forms */
+  form {
+    margin-bottom: 20px;
+  }
+  
+  input, select, button {
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    width: 100%;
+  }
+  
+  button {
+    background-color: #3498db;
+    color: white;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  button:hover {
+    background-color: #2980b9;
+  }
+  
+  /* Lists */
+  ul {
+    list-style-type: none;
+  }
+  
+  li {
+    padding: 10px;
+    border-bottom: 1px solid #eee;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  li:last-child {
+    border-bottom: none;
+  }
+  
+  li button {
+    width: auto;
+    padding: 5px 10px;
+    background-color: #e74c3c;
+  }
+  
+  li button:hover {
+    background-color: #c0392b;
+  }
+  
+  /* Search input */
+  #search {
+    margin-bottom: 20px;
+  }
+  
+  /* News and quiz styling */
+  .news-item, .attempt-scrollable > div {
+    padding: 15px;
+    margin-bottom: 15px;
+    background-color: #f9f9f9;
+    border-radius: 4px;
+    border-left: 3px solid #3498db;
+  }
+  
+  .news-scrollable, .attempt-scrollable {
+    max-height: 500px;
+    overflow-y: auto;
+    margin-top: 20px;
+  }
+  
+  .hidden {
+    display: none;
+  }
+  
+  /* Quiz form */
+  #answerForm label {
+    display: block;
+    margin-bottom: 10px;
+    cursor: pointer;
+  }
+  
+  #feedback {
+    font-weight: bold;
+    margin: 15px 0;
+  }
+  
+  @media (max-width: 768px) {
+    nav {
+      flex-direction: column;
+    }
+    
+    nav a {
+      margin-bottom: 5px;
+    }
+  }
+  
+  
