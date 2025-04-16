@@ -35,7 +35,7 @@
 | 1   | Style.css is not filled                  |       Narain |     Whole Team     |
 | 2   |Wrong script path in profile.html (styles/ instead of scripts/)    |Saharsh        |Saharsh        |
 | 3   |Home.js is a completely unused file       |Saharsh       |Saharsh        |
-| 4   |                                          |               |              |
+| 4   |Missing quiz link in other HTML pages' navigation         |Saharsh          |Saharsh        |
 | 5   |                                          |               |              |
 | 6   |                                          |               |              |
 | 7   |                                          |               |              |
