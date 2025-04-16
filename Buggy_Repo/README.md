@@ -39,7 +39,7 @@
 | 5   |Missing news link in quiz.html navigation |Saharsh        |Saharsh       |
 | 6   |Missing analytics link in quiz.html navigation       |Saharsh               |Saharsh              |
 | 7   |Missing nav menu is analytics.html                                          |               |              |
-| 8   |                                          |               |              |
+| 8   |Missing container in items.html           |Saharsh        |Saharsh              |
 | 9   |                                          |               |              |
 | 10  |                                          |               |              |
 | 11  |                                          |               |              |
