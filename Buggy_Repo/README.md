@@ -42,7 +42,7 @@
 | 8   |Missing container in items.html           |Saharsh        |Saharsh              |
 | 9   |fixed models.py, error in var type                   | Aakarsh|      Aakarsh        |
 | 10  |hardcoded users in analytics.py           |        Aakarsh       |       Aakarsh       |
-| 11  |                                          |               |              |
+| 11  |names should be name and usernames should be username in analytics.py|  Aakarsh|   Aakarsh        |
 | 12  |                                          |               |              |
 | 13  |                                          |               |              |
 | 14  |                                          |               |              |
