@@ -36,7 +36,7 @@
 | 2   |Wrong script path in profile.html (styles/ instead of scripts/)    |Saharsh        |Saharsh        |
 | 3   |Home.js is a completely unused file       |Saharsh       |Saharsh        |
 | 4   |Missing quiz link in other HTML pages' navigation         |Saharsh          |Saharsh        |
-| 5   |                                          |               |              |
+| 5   |Missing news link in quiz.html navigation |Saharsh        |Saharsh       |
 | 6   |                                          |               |              |
 | 7   |                                          |               |              |
 | 8   |                                          |               |              |
