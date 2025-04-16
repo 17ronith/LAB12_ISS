@@ -37,7 +37,7 @@
 | 3   |Home.js is a completely unused file       |Saharsh       |Saharsh        |
 | 4   |Missing quiz link in other HTML pages' navigation         |Saharsh          |Saharsh        |
 | 5   |Missing news link in quiz.html navigation |Saharsh        |Saharsh       |
-| 6   |                                          |               |              |
+| 6   |Missing analytics link in quiz.html navigation       |Saharsh               |Saharsh              |
 | 7   |                                          |               |              |
 | 8   |                                          |               |              |
 | 9   |                                          |               |              |
