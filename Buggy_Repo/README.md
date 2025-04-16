@@ -32,8 +32,8 @@
 
 | ID  | Issue Description                        | Identified By | Fixed By     |
 |-----|------------------------------------------|---------------|--------------|
-| 1   | Style.css is not filled                                    |         Narain |     Whole Team     |
-| 2   |                                          |               |              |
+| 1   | Style.css is not filled                  |       Narain |     Whole Team     |
+| 2   |Wrong script path in profile.html (styles/ instead of scripts/)    |Saharsh        |Saharsh        |
 | 3   |                                          |               |              |
 | 4   |                                          |               |              |
 | 5   |                                          |               |              |
